@@ -2,6 +2,8 @@
 
 ## Check it out!  https://e-store-7n32.onrender.com/
 
+## Hosted through Render.com
+
 ### Setup .env file
 
 ```shell
